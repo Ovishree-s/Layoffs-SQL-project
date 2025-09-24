@@ -10,8 +10,8 @@ Analyze layoffs data from 2023 to 2025 using SQL. Focused on data cleaning, expl
 
 ## Files
 - `layoffs.csv` – Raw dataset
-- `data_cleaning.sql` – SQL scripts for cleaning
-- `eda_queries.sql` – SQL queries for EDA
+- `Data_Cleaning.sql` – SQL scripts for cleaning
+- `EDA_Queries.sql` – SQL queries for EDA
 
 ## Key Learnings
 - Learned to clean and organize data efficiently
